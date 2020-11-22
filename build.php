@@ -1,6 +1,6 @@
 <?php
 date_default_timezone_set('Europe/Istanbul');
-$born_date = "22.11";
+$born_date = "24.11";
 $this_date = date('d.m');
 if ($born_date == $this_date){
   echo '
